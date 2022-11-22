@@ -1,0 +1,55 @@
+.nav-buttons button {
+  margin-right: 10px;
+}
+
+.nav-buttons {
+  offset: 10px;
+  align-items: center;
+}
+
+.nav {
+  font-size: 72px;
+  padding-top: 10px;
+  margin-top: 10px;
+  background-color: red;
+  color: white;
+  margin-bottom: 10px;
+  position: sticky;
+}
+
+/* CSS */
+.button-28 {
+  background-color: transparent;
+  border: 2px solid #1A1A1A;
+  position: relative;
+  top: -20px;
+  color: #1f1f1f;
+  cursor: pointer;
+  block-size: 50px;
+  font-size: 16px;
+  font-weight: 600;
+  min-height: 60px;
+  outline: none;
+  text-align: center;
+  text-decoration: none;
+  transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+  touch-action: manipulation;
+  width: 10%;
+  will-change: transform;
+}
+
+.button-28:disabled {
+  pointer-events: none;
+}
+
+.button-28:hover {
+  color: rgb(255, 255, 255);
+  background-color: #1A1A1A;
+  
+  transform: translateY(-2px);
+}
+
+.button-28:active {
+  box-shadow: none;
+  transform: translateY(0);
+}
