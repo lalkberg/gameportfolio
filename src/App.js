@@ -54,7 +54,7 @@ function App() {
   return (
     <>
     <Router>
-      <Nav class="nav">
+      <Nav className="nav">
       </Nav>
       <Routes>
         <Route path = "/" element={<Home/>} exact/>

@@ -3,27 +3,67 @@
 }
 
 .nav-buttons {
+  text-align: center;
   offset: 10px;
   align-items: center;
 }
 
+
+.header-video {
+  display: inline-block;
+  background-size: cover;
+  position: absolute;
+  background-position:center;
+  right: 0;
+  bottom: 0;
+  max-height: fit-content;
+  min-width: 100%;
+  overflow: hidden;
+  z-index: -1;
+}
+
+
 .nav {
+  padding-left: calc(100vw - 100%);
+  text-align: center;
   font-size: 72px;
-  padding-top: 10px;
-  margin-top: 10px;
-  background-color: red;
+  padding-bottom: 10px;
+  margin-top: 20px;
   color: white;
-  margin-bottom: 10px;
   position: sticky;
+  top: 0;
+}
+
+.markdown {
+  padding-top: 1px;
+  color: white;
+  text-align: left;
+}
+
+.markdown h1 {
+  text-align: center;
+}
+
+.container {
+  background-color: #464646;
+  width: 50%;
+  align-self: center;
+  margin: 0 auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.box {
+  padding-left: calc(100vw - 100%);
 }
 
 /* CSS */
 .button-28 {
   background-color: transparent;
-  border: 2px solid #1A1A1A;
+  border: 2px solid #ffffff;
   position: relative;
   top: -20px;
-  color: #1f1f1f;
+  color: #ffffff;
   cursor: pointer;
   block-size: 50px;
   font-size: 16px;
@@ -34,6 +74,8 @@
   text-decoration: none;
   transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
   touch-action: manipulation;
+  min-width: 120px;
+  max-width: 140px;
   width: 10%;
   will-change: transform;
 }
