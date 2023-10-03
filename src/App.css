@@ -1,3 +1,5 @@
+@import './font.css';
+
 .nav-buttons button {
   margin-right: 10px;
 }
@@ -22,6 +24,11 @@
   z-index: -1;
 }
 
+.header-name {
+  font-family: DelaGothicOne;
+  z-index: 1;
+  text-align: center;
+}
 
 .nav {
   padding-left: calc(100vw - 100%);
