@@ -6,7 +6,9 @@ import Card from './Card'
 export default function Portfolio() {
   const md = [
     'portfolio_pieces/minecraft_legends.md',
-    'portfolio_pieces/unnanounced_uefn_project.md'
+    'portfolio_pieces/unnanounced_uefn_project.md',
+    'portfolio_pieces/unnanounced_unity_deckbuilder.md',
+    'portfolio_pieces/minecraft_marketplace.md'
 ]
 
   return (

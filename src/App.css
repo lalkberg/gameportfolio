@@ -40,6 +40,7 @@
   color: white;
   position: sticky;
   top: 0;
+  z-index: 10;
 }
 
 .markdown {
@@ -88,11 +89,13 @@
   min-height: fit-content;
   will-change: transform;
   overflow: hidden;
+  min-height: 200px;
 }
 
 .portfolio-card-content {
   background-image: linear-gradient(to right, rgba(26, 26, 26, 0), rgba(26, 26, 26, 1));
   overflow: hidden;
+  min-height: inherit;
 }
 
 .portfolio-card img {
@@ -103,6 +106,7 @@
   right: 0;
   bottom: 0;
   max-height: fit-content;
+  min-height: fit-content;
   min-width: 100%;
   overflow: hidden;
   z-index: -1;

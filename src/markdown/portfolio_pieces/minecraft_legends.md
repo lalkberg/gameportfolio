@@ -6,3 +6,4 @@ Encounter design
 Technical design  
 System design   
 JavaScript and TypeScript development  
+Quality assurance

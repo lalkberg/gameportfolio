@@ -1,4 +1,4 @@
-# Unannounced UEFN Project (Comic book IP)
+# Unannounced UEFN Project (Major IP)
 ## (2023)
 ### RESPONSIBILITIES
 Game design     
