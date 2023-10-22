@@ -2,3 +2,8 @@
     font-family: DelaGothicOne;
     src: url('./fonts/DelaGothicOne-Regular.ttf');
 }
+
+@font-face {
+    font-family: Motherish;
+    src: url('./fonts/Motherish-Regular.otf');
+}

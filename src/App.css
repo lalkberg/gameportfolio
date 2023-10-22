@@ -2,6 +2,9 @@
 
 .nav-buttons button {
   margin-right: 10px;
+  font-family: Motherish;
+  font-size: 20px;
+  letter-spacing: 0.05em;
 }
 
 .nav-buttons {
@@ -130,6 +133,16 @@
   font-family: DelaGothicOne;
   font-size: 20px;
   letter-spacing: 1px;
+}
+
+.portfolio-card .markdown h4 {
+  text-shadow: rgb(26, 25, 21) 10px 0 10px;
+  position: absolute;
+  bottom: -8px;
+  left: 10px;
+  font-family: Motherish;
+  letter-spacing: 0.05em;
+  font-size: 12px;
 }
 
 .portfolio-card .markdown {
