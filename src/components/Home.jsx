@@ -3,14 +3,17 @@ import MarkDown from 'markdown-to-jsx'
 import GetMarkdown from './GetMarkdown'
 
 const Home = () => {
-  const md = 'home.md'
+  const bio = 'bio.md'
 
   return (
     <div className="box">
       <div className= "container">
-        <MarkDown className="markdown">
-          {GetMarkdown(md)}
-        </MarkDown>
+        <div className= "bio-card">
+          <img src={require('../portfolio-images/minecraft-legends-review_aah7.jpg')} alt = ""/>
+            <MarkDown className="markdown">
+              {GetMarkdown(bio)}
+            </MarkDown>
+        </div>
       </div>
     </div>
   );

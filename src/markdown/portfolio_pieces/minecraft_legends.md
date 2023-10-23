@@ -1,6 +1,5 @@
 # Minecraft: Legends
 ## (2022-2023)
-### RESPONSIBILITIES
 Level design  
 Encounter design  
 Technical design  
