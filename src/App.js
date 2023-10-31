@@ -8,6 +8,8 @@ import {
   Route
 } from "react-router-dom";
 
+import * as ReactDOM from "react-dom";
+
 import Home from './components/Home';
 import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
@@ -30,5 +32,7 @@ function App() {
     </>
   );
 }
+
+ReactDOM.render(App());
 
 export default App;
