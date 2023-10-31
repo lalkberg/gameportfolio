@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gameportfolio/static/css/main.cb15bd10.css",
-    "main.js": "/gameportfolio/static/js/main.8a217ff9.js",
+    "main.js": "/gameportfolio/static/js/main.ae43277a.js",
     "static/js/707.aac2f93d.chunk.js": "/gameportfolio/static/js/707.aac2f93d.chunk.js",
     "static/js/824.8f1ea372.chunk.js": "/gameportfolio/static/js/824.8f1ea372.chunk.js",
     "static/js/875.286e99e6.chunk.js": "/gameportfolio/static/js/875.286e99e6.chunk.js",
@@ -27,10 +27,10 @@
     "static/media/unnanounced_uefn_project.md": "/gameportfolio/static/media/unnanounced_uefn_project.2e8c79a2782b00236396.md",
     "static/media/unnanounced_unity_deckbuilder.md": "/gameportfolio/static/media/unnanounced_unity_deckbuilder.5972c915fd178d6d5bed.md",
     "main.cb15bd10.css.map": "/gameportfolio/static/css/main.cb15bd10.css.map",
-    "main.8a217ff9.js.map": "/gameportfolio/static/js/main.8a217ff9.js.map"
+    "main.ae43277a.js.map": "/gameportfolio/static/js/main.ae43277a.js.map"
   },
   "entrypoints": [
     "static/css/main.cb15bd10.css",
-    "static/js/main.8a217ff9.js"
+    "static/js/main.ae43277a.js"
   ]
 }
