@@ -42,7 +42,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://lalkberg.github.io/gameportfolio",
+  "homepage": ".",
   "devDependencies": {
     "gh-pages": "^6.0.0"
   }
