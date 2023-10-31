@@ -13,6 +13,9 @@ const Nav = () => {
             <div className='header-name'>
                 <text myName>LEO ALKBERG</text>
             </div>
+            <div className='header-description'>
+                <text>Game Designer | Game Programmer | Game Development Mentor</text>
+            </div>
             <div className='nav-buttons'>
                 <Link to="/"><button className='button-28'>HOME</button></Link>
                 <Link to="/portfolio"><button className='button-28'>PORTFOLIO</button></Link>
