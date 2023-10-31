@@ -3,7 +3,7 @@ import './App.css';
 import React from 'react';
 //import { v4 as uuidv4 } from 'uuid';
 import {
-  HashRouter as Router,
+  HashRouter,
   Routes,
   Route
 } from "react-router-dom";
@@ -18,7 +18,7 @@ import Nav from './Nav';
 function App() {
   return (
     <>
-    <Router>
+    <HashRouter>
       <Nav className="nav">
       </Nav>
       <Routes>
@@ -26,7 +26,7 @@ function App() {
         <Route path = "/portfolio" element={<Portfolio/>}/>
         <Route path = "/contact" element={<Contact/>}/>
       </Routes>
-    </Router>
+    </HashRouter>
     </>
   );
 }
