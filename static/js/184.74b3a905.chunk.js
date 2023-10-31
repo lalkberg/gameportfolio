@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[184],{24:function(s,e,o){s.exports=o.p+"static/media/softskills.25eafb6f6972807be5d6.md"}}]);

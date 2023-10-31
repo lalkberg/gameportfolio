@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[457],{457:function(e,t,f){e.exports=f.p+"static/media/minecraft_marketplace.d30e3efb76ff839d4d43.md"}}]);

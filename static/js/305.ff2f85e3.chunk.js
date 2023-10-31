@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[305],{305:function(e,o,n){e.exports=n.p+"static/media/unnanounced_uefn_project.2e8c79a2782b00236396.md"}}]);

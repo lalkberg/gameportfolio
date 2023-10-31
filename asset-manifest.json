@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/gameportfolio/static/css/main.cb15bd10.css",
+    "main.js": "/gameportfolio/static/js/main.8356e610.js",
+    "static/js/707.aac2f93d.chunk.js": "/gameportfolio/static/js/707.aac2f93d.chunk.js",
+    "static/js/824.8f1ea372.chunk.js": "/gameportfolio/static/js/824.8f1ea372.chunk.js",
+    "static/js/875.286e99e6.chunk.js": "/gameportfolio/static/js/875.286e99e6.chunk.js",
+    "static/js/490.899bc9d4.chunk.js": "/gameportfolio/static/js/490.899bc9d4.chunk.js",
+    "static/js/394.bcc4708c.chunk.js": "/gameportfolio/static/js/394.bcc4708c.chunk.js",
+    "static/js/457.e0f86888.chunk.js": "/gameportfolio/static/js/457.e0f86888.chunk.js",
+    "static/js/305.ff2f85e3.chunk.js": "/gameportfolio/static/js/305.ff2f85e3.chunk.js",
+    "static/js/427.21712b67.chunk.js": "/gameportfolio/static/js/427.21712b67.chunk.js",
+    "static/js/184.74b3a905.chunk.js": "/gameportfolio/static/js/184.74b3a905.chunk.js",
+    "static/media/header_stefwithanf.mp4": "/gameportfolio/static/media/header_stefwithanf.c50103a933bb7828e57c.mp4",
+    "static/media/DelaGothicOne-Regular.ttf": "/gameportfolio/static/media/DelaGothicOne-Regular.a8761c8c6d54ccaa44db.ttf",
+    "static/media/alkberg2.png": "/gameportfolio/static/media/alkberg2.68903fd8745b9226fae4.png",
+    "static/media/minecraft-legends-review_aah7.jpg": "/gameportfolio/static/media/minecraft-legends-review_aah7.058c1dd0b382a14f4a35.jpg",
+    "static/media/Motherish-Regular.otf": "/gameportfolio/static/media/Motherish-Regular.f4890aecebda3cbdded2.otf",
+    "static/media/contact.md": "/gameportfolio/static/media/contact.8d2c7936617e66c9dd6f.md",
+    "static/media/portfolio.md": "/gameportfolio/static/media/portfolio.150077105a4cf0a03f81.md",
+    "static/media/bio.md": "/gameportfolio/static/media/bio.6883606bb9ad919a4fa6.md",
+    "index.html": "/gameportfolio/index.html",
+    "static/media/hardskills.md": "/gameportfolio/static/media/hardskills.d3a8e6ed8f3d37a4127b.md",
+    "static/media/minecraft_marketplace.md": "/gameportfolio/static/media/minecraft_marketplace.d30e3efb76ff839d4d43.md",
+    "static/media/softskills.md": "/gameportfolio/static/media/softskills.25eafb6f6972807be5d6.md",
+    "static/media/minecraft_legends.md": "/gameportfolio/static/media/minecraft_legends.5b3faa48f0b4b5ab128e.md",
+    "static/media/unnanounced_uefn_project.md": "/gameportfolio/static/media/unnanounced_uefn_project.2e8c79a2782b00236396.md",
+    "static/media/unnanounced_unity_deckbuilder.md": "/gameportfolio/static/media/unnanounced_unity_deckbuilder.5972c915fd178d6d5bed.md",
+    "main.cb15bd10.css.map": "/gameportfolio/static/css/main.cb15bd10.css.map",
+    "main.8356e610.js.map": "/gameportfolio/static/js/main.8356e610.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb15bd10.css",
+    "static/js/main.8356e610.js"
+  ]
+}

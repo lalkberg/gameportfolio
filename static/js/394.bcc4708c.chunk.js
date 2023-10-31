@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[394],{394:function(e,t,a){e.exports=a.p+"static/media/minecraft_legends.5b3faa48f0b4b5ab128e.md"}}]);
