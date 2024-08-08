@@ -1,26 +1,29 @@
 ## Unity
-### 5 years    
+### 6 years    
 
 ## Unreal Engine
-### 3 years    
+### 4 years    
 
 ## C# development
-### 5 years    
+### 6 years    
 
 ## JavaScript development
-### 2 years    
+### 3 years    
 
 ## TypeScript development
-### 2 years    
+### 3 years    
 
 ## Agile work experience
 ### 4 years    
 
 ## Git
-### 5 years    
+### 6 years    
 
 ## Design and development mentoring experience
-### 3 years    
+### 3 years  
+
+## Game development teaching experience
+### 1+ year
 
 ## Professional game development experience
-### 4 years
+### 5 years

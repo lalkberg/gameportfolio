@@ -14,7 +14,7 @@ const Nav = () => {
                 <text myName>LEO ALKBERG</text>
             </div>
             <div className='header-description'>
-                <text>Game Designer | Game Programmer | Game Development Mentor</text>
+                <text>Game Designer | Game Programmer | Game Development Teacher & Mentor</text>
             </div>
             <div className='nav-buttons'>
                 <Link to="/"><button className='button-28'>HOME</button></Link>
