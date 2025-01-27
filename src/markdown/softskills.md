@@ -1,14 +1,19 @@
 ## Project management skills
-### 3+ years
+
+### 4+ years
 
 ## Positive attitude
+
 ### Lifelong
 
 ## Hard worker
+
 ### Lifelong
 
 ## Leadership
-### 5+ years
+
+### 6+ years
 
 ## Educational approach
-### 5+ years
+
+### 6+ years

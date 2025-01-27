@@ -1,4 +1,6 @@
-# Unannounced Unity Deckbuilder
+# Unannounced Deckbuilder (Unity)
+
 ## (2022)
+
 C# development  
-Quality assurance   
+Quality assurance

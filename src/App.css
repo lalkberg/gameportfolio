@@ -40,9 +40,8 @@
   font-size: 72px;
   padding-bottom: 15px;
   color: white;
-  position: sticky;
+  position: sticky; top: 0;
   margin-top: 0px;
-  top: -19.3%;
   z-index: 10;
 }
 
@@ -157,11 +156,12 @@
 
 .bio-card {
   background: rgb(2,0,36);
-  background: linear-gradient(180deg, rgba(18,18,36,1) 0%, rgba(18,18,36,1) 30%, rgba(50,50,50,1) 100%);
+  background: linear-gradient(0deg, rgba(18,18,36,1) 0%, rgba(18,18,36,1) 50%, rgb(0, 0, 0) 100%);
   border:2px solid #ffffff;
   min-height: fit-content;
   width: 75%;
   margin-left: 12.5%;
+  margin-bottom: 12px;
 }
 
 .bio-card img {
@@ -179,9 +179,13 @@
   margin-left: 13px;
 }
 
+.bio-card-skills {
+  margin-bottom: 12px;
+}
+
 .bio-card-skills .hard-skills {
   background: rgb(2,0,36);
-  background: linear-gradient(180deg, rgba(36,18,18,1) 0%, rgba(36,18,18,1) 30%, rgba(50,50,50,1) 100%);
+  background: linear-gradient(0deg, rgba(36,18,18,1) 0%, rgba(36,18,18,1) 50%, rgb(0, 0, 0) 100%);
   border:2px solid #ffffff;
   min-height: fit-content;
   width: 75%;
@@ -196,7 +200,22 @@
 
 .bio-card-skills .soft-skills {
   background: rgb(2,0,36);
-  background: linear-gradient(180deg, rgba(18,36,18,1) 0%, rgba(18,36,18,1) 30%, rgba(50,50,50,1) 100%);
+  background: linear-gradient(0deg, rgba(18,36,18,1) 0%, rgba(18,36,18,1) 50%, rgb(0, 0, 0) 100%);
+  border:2px solid #ffffff;
+  min-height: fit-content;
+  width: 75%;
+  margin-left: 12.5%;
+  margin-top: -2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.bio-card-skills .software-proficiency {
+  background: rgb(2,0,36);
+  background: linear-gradient(0deg, rgb(36, 34, 18, 1) 0%, rgba(36, 34, 18,1) 50%, rgb(0, 0, 0) 100%);
   border:2px solid #ffffff;
   min-height: fit-content;
   width: 75%;
@@ -250,6 +269,41 @@
   top: 15px;
   bottom: 5px;
   left: 0;
+}
+
+.proficiency-container {
+  flex-wrap: wrap;
+  display: flex;
+  top: 15px;
+  bottom: 5px;
+  width: 75%;
+  row-gap: 10px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.proficiency-container h2{
+  text-align: center;
+  color:#ffffff;
+  top: -10px;
+}
+
+.proficiency h2::after {
+  height: 0px;
+}
+
+.proficiency h1 {
+  font-size: x-large;
+}
+
+.bio-card-skills .proficiency {
+  align-items: center;
+  width: 150px;
+  height: fit-content;
+}
+
+.bio-card-skills .proficiency img {
+  max-width: 100px;
 }
 
 .button-28 {

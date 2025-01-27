@@ -37,7 +37,3 @@
 ## Professional game development experience
 
 ### 6 years
-
-## React development
-
-### 1 year
